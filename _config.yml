@@ -27,14 +27,14 @@ twitter_username: moh53n
 github_username:  moh53n
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
-   - skin: dark
+  skin: dark
 
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
