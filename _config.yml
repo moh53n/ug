@@ -28,6 +28,10 @@ github_username:  moh53n
 
 # Build settings
 theme: minima
+
+minima:
+   - skin: dark
+
 plugins:
   - jekyll-feed
 
