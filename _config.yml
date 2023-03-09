@@ -31,6 +31,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/moh53n" }
+    - { platform: twitter, user_url: "https://twitter.com/moh53n" }
 
 plugins:
   - jekyll-feed
